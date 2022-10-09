@@ -54,6 +54,7 @@ nav a:hover {
 
 .over img {
     max-height: 30vh; 
+    position: relative;
 }
 
 .hobbys {
